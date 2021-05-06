@@ -5,4 +5,5 @@ Analysis of a novel statistical method
 * Included in this repository:
   + PDF of final report
   + Source Code used for paper
+  + Original Dose Deposition paper where the method was used
 
